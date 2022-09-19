@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color:#FF69B4;
+}
+.title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 70px;
+    text-align:center;
+    margin-top: 200px;
+    padding: 14px;
+}
+main{
+    text-align: center;
+}
+.input{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    padding: 8px;
+}
+.result{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    padding: 20px;
+    
+}
+.button{
+    font-family: 'Roboto', sans-serif;
+    background-color: #C0C0C0;
+}

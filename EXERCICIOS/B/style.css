@@ -1,0 +1,22 @@
+:root{
+    --bg-color: #FFFF;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin-top: 60px;
+    background-color: MediumSlateBlue;
+}
+
+.title{
+    font-size: 50px;
+}
+
+main{
+    text-align: center;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+}
